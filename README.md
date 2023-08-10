@@ -1,4 +1,4 @@
-# hackthebox sau script for ssrf
+# hackthebox sau script for unauthenticated os command injection
 
 usage:
 NB: remember  to start your netcat listeiner eg: nc -lnvp 9999 before running the script  below. {by massco99 hacker}
